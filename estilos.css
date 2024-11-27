@@ -2,48 +2,190 @@
 
 .texto{
    
-    font-size: 40px;
-    padding-top: 140px;
-    text-align: justify;
+    font-size: 30px;
+    padding-top: 150px;
     color: rgb(244, 237, 237);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondos.jpg");
+    background-image: url("imageshellokitty") 
    
 
 }
 .titulo{
 font-size: 60px;
-color: black;
+color: rgb(255, 255, 255);
 text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
 .img1{
-    height: 193px;
-    width: 300px;
-    background-image: url("piedra.jpeg");
+    height: 200px;
+    width: 800px;
+    background-image: url("circuito\ electrico");
     background-repeat: no-repeat;
     float: right;
+    
+    
 }
 .img2{
     height: 500px;
-    width: 500px;
-    background-image: url("medellin.jpeg");
-    background-repeat: no-repeat;
-    float: left;
-}
-.imgtec3{
-    height: 150px;
-    width: 200px;
-    background-image: url("descarga.jpeg");
+    width: 800px;
+    background-image: url("circuitos");
     background-repeat: no-repeat;
     float: right;
-
 }
+.img3{
+    height: 500px;
+    width: 800px;
+    background-image: url("cortocircuito");
+    background-repeat: no-repeat;
+    float: right; 
+    
+    
+
+}       
+.img4{
+    height: 500px;
+    width: 800px;
+    background-image: url("serie\ circuito");
+    background-repeat: no-repeat;
+    float: right; 
+}
+
+.img5{
+    height: 900px;
+    width: 1000px;
+    background-image: url("mapa\ mental");
+    background-repeat: no-repeat;
+    float: right; 
+    
+}
+
+.img6{
+    height: 900px;
+    width: 1000px;
+    background-image: url("anorexia");
+    background-repeat: no-repeat;
+    float: none; 
+    
+}
+
+.img7{
+    height: 500px;
+    width: 800px;
+    background-image: url("bulimia");
+    background-repeat: no-repeat;
+    float: none; 
+}
+
+.img8{
+    height: 500px;
+    width: 800px;
+    background-image: url("desordenes\ alimenticios.png");
+    background-repeat: no-repeat;
+    float: none; 
+}
+  
+.img9{
+    height: 500px;
+    width: 800px;
+    background-image: url("ejercicio");
+    background-repeat: no-repeat;
+    float: none; 
+}
+
+.img10{
+    height: 500px;
+    width: 800px;
+    background-image: url("higiene\ personal.jfif");
+    background-repeat: no-repeat;
+    float: none; 
+}
+
+.img11{
+    height: 500px;
+    width: 800px;
+    background-image: url("dormit\ bien");
+    background-repeat: no-repeat;
+    float: none; 
+}
+
+.img12{
+    height: 500px;
+    width: 800px;
+    background-image: url("actitud\ positiva");
+    background-repeat: no-repeat;
+    float: none; 
+}
+.img13{
+    height: 500px;
+    width: 800px;
+    background-image: url("leer\ mas");
+    background-repeat: no-repeat;
+    float: none; 
+}
+
+.img14{
+    height: 500px;
+    width: 800px;
+    background-image: url("no\ dormir\ bien");
+    background-repeat: no-repeat;
+    float: none; 
+}
+ 
+.img15{ 
+    height: 500px;
+    width: 800px;
+    background-image: url("aislamiento\ social");
+    background-repeat: no-repeat;
+    float: none; 
+}
+
+.img16{
+    height: 500px;
+    width: 800px;
+    background-image: url("no\ comer");
+    background-repeat: no-repeat;
+    float: none; 
+}
+.img17{
+    height: 500px;
+    width: 800px;
+    background-image: url("comer\ muchos\ dulces");
+    background-repeat: no-repeat;
+    float: none; 
+}
+
+.img18{
+    height: 500px;
+    width: 800px;
+    background-image: url("comer\ comida\ procesada");
+    background-repeat: no-repeat;
+    float: none; 
+}
+
+.img19{
+    height: 500px;
+    width: 800px;
+    background-image: url("etiquetas-html-1.webp");
+    background-repeat: no-repeat;
+    float: none; 
+}
+
+.img20{ 
+    height: 500px;
+    width: 800px;
+    background-image: url("mapa\ conceptual.jpg");
+    background-repeat: no-repeat;
+    float: none; 
+}
+
+
+
